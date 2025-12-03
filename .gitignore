@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FAISS & embedding cache files
+data/embeddings.npy
+data/chunks.pkl
+data/faiss.index
+
+# Streamlit cache
+.streamlit/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
