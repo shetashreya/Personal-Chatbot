@@ -14,6 +14,9 @@ data/embeddings.npy
 data/chunks.pkl
 data/faiss.index
 
+# Personal information file
+data/info.txt
+
 # Streamlit cache
 .streamlit/
 
